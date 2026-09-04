@@ -1,3 +1,1 @@
-void cihuy(){
-
-}
+void cihuy() {}
